@@ -15,9 +15,11 @@ O diagrama pode ser classificado em 6 tipos:
 - Medida
 - Método
 
+Nossa proposta foi procurar o que leva à perda de avisos e falta de comunicação entre a central acadêmica e os discentes. Portanto esse diagrama tem o objetivo de explorar as causas e diversos fatores que impossibilitam ou dificultam a comunicação, chegando assim no efeito, a perda de mensagens e avisos importantes. 
+
 ## Diagrama de Ishikawa - FGAvisos
 
-Inserir diagrama aqui
+[![CausaEfeito](../../../docs/assets/img/Diagrama_de_Causa_e_Efeito.jpg "Diagrama de Causa e Efeito")](https://miro.com/app/board/uXjVOraOMNU=/?share_link_id=233153567172)
 
 ## Referências
 
@@ -25,7 +27,9 @@ SERRANO, Milene. 5W2H, 2021. Material apresentado na Disciplina de Arquitetura e
 
 ## Versionamento
 
-| Versão | Data       | Comentários                     | Autor(es)                                      |
-| ------ | ---------- | -----------------------------   | ---------------------------------------------- |
-| 0.1    | 23/06/2022 | Criação do documento            | Vitor Diniz                                    |                             |
-| 0.2    | 24/06/2022 | Adicionando texto e referência  | Vitor Diniz                                    |                             |
+| Versão | Data       | Comentários                     | Autor(es)       
+| ------ | ---------- | -----------------------------   | --------------- 
+| 0.1    | 23/06/2022 | Criação do documento            | Vitor Diniz                                  
+| 0.2    | 24/06/2022 | Adicionando texto e referência  | Vitor Diniz     
+| 0.3    | 25/06/2022 | Adicionado especificação do diagrama em nosso escopo e imagem do diagrama | Mateus Moreira
+|             
