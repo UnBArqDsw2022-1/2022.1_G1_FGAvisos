@@ -47,3 +47,9 @@ Se SIM, insira um manual (ou um script) para auxiliar ainda mais os interessados
 
 ## Informações Complementares 
 Quaisquer outras informações sobre seu projeto podem ser descritas nessa seção.
+
+## Versionamento
+
+| Data |Versão| Descrição | Autor(es) | Revisor |
+|:----:|:----:|:---------:|:-----:|:-----:|
+|25/06 | 1.0  | Inserção do nome do projeto, adição da nome e matrícula e adição da tabela de versionamento | Hugo Rocha | xxxx | 

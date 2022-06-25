@@ -7,7 +7,7 @@ Exemplo:
 
 - Módulo Projeto Não Orientado a Abordagens Específicas
   - Design Sprint
-    ◦ Histórico de Versões, com rastro para os autores que realizaram aquela parte do
+    ◦ Histórico de Versões, com rastro para os Autor(es)es que realizaram aquela parte do
     projeto.
     - Introdução
     - Detalhamento
@@ -34,3 +34,9 @@ quanto nas apresentações & códigos. As participações devem ser bem homogên
 membros.**
 
 Demais orientações disponíveis nas Diretrizes (vide Moodle).
+
+## Versionamento
+
+| Data |Versão| Descrição | Autor(es) | Revisor |
+|:----:|:----:|:---------:|:-----:|:-----:|
+|25/06 | 1.0  | Adição da tabela de versionamento | Hugo Rocha | xxxx |
