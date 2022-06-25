@@ -19,7 +19,7 @@ Nossa proposta foi procurar o que leva à perda de avisos e falta de comunicaç�
 
 ## Diagrama de Ishikawa - FGAvisos
 
-[![CausaEfeito](../../../docs/assets/img/Diagrama_de_Causa_e_Efeito.jpg "Diagrama de Causa e Efeito")](https://miro.com/app/board/uXjVOraOMNU=/?share_link_id=233153567172)
+[![CausaEfeito](../../assets/img/Diagrama_de_Causa_e_Efeito.jpg "Diagrama de Causa e Efeito")](https://miro.com/app/board/uXjVOraOMNU=/?share_link_id=963594131314)
 
 ## Referências
 
@@ -32,4 +32,4 @@ SERRANO, Milene. 5W2H, 2021. Material apresentado na Disciplina de Arquitetura e
 | 0.1    | 23/06/2022 | Criação do documento            | Vitor Diniz                                  
 | 0.2    | 24/06/2022 | Adicionando texto e referência  | Vitor Diniz     
 | 0.3    | 25/06/2022 | Adicionado especificação do diagrama em nosso escopo e imagem do diagrama | Mateus Moreira
-|             
+         
