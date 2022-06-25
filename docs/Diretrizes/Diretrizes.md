@@ -34,3 +34,11 @@ quanto nas apresentações & códigos. As participações devem ser bem homogên
 membros.**
 
 Demais orientações disponíveis nas Diretrizes (vide Moodle).
+
+
+
+## Versionamento
+
+| Data |Versão| Descrição | Autor(es) | Revisor |
+|:----:|:----:|:---------:|:-----:|:-----:|
+| xx/xx |  x.x  | xxxxx | xxxx | xxxx |

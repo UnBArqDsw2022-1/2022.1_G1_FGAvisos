@@ -1,24 +1,20 @@
-# RepositorioTemplate
-Esse repositório é para ser utilizado pelos grupos como um template inicial, da home page do Projeto.
-As seções do Template NÃO DEVEM SER OMITIDAS, sendo TODAS RELEVANTES.
-Demais diretrizes sobre a organização da wiki constam no Moodle Aprender 3.
-
-**!! Atenção: Renomeie o seu repositório para (Ano.Semestre)_(Grupo)_(NomeDoProjeto)*. !!** 
-
-**!! *Não coloque os nomes dos alunos no título do repositório*. !!**
-
-**!! *Exemplo de título correto: 2022.1_G1_ProjetoPandora*. !!** 
- 
- (Apague esses comentários)
-
-# Nome do Projeto
+# fgAvisos
+Projeto realizado pelos alunos do Grupo 01 da disciplina de Arquitetura e Desenho de Software da Universidade de Brasília em 2022-1.
 
 **Código da Disciplina**: FGA0208<br>
-**Número do Grupo**: XX<br>
+**Número do Grupo**: 01<br>
 
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
+| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 18/0136925  |  Hugo Rocha de Moura |
+| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| xx/xxxxxx  |  xxxx xxxx xxxxx |
 | xx/xxxxxx  |  xxxx xxxx xxxxx |
 | xx/xxxxxx  |  xxxx xxxx xxxxx |
 
@@ -51,3 +47,11 @@ Se SIM, insira um manual (ou um script) para auxiliar ainda mais os interessados
 
 ## Informações Complementares 
 Quaisquer outras informações sobre seu projeto podem ser descritas nessa seção.
+
+
+
+## Versionamento
+
+| Data |Versão| Descrição | Autor(es) | Revisor |
+|:----:|:----:|:---------:|:-----:|:-----:|
+| 25/06 |  1.0  | Editando template, adicionando dados do aluno, alterando nome do projeto e nome do grupo | Hugo Rocha | xxxx |
