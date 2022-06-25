@@ -9,7 +9,7 @@ Projeto realizado pelos alunos do Grupo 01 da disciplina de Arquitetura e Desenh
 | -- | -- |
 | xx/xxxxxx  |  xxxx xxxx xxxxx |
 | xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 19/0026600  |  Davi Marinho da Silva Campos |
 | 18/0136925  |  Hugo Rocha de Moura |
 | xx/xxxxxx  |  xxxx xxxx xxxxx |
 | xx/xxxxxx  |  xxxx xxxx xxxxx |
