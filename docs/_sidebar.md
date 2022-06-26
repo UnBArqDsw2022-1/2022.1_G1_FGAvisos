@@ -4,6 +4,7 @@
 - [Diretrizes](Diretrizes/Diretrizes.md)
 
 - **Base**
+
   - [1. Desenho de Software (Base)](./Base/1.Base.md)
     - [1.1. Módulo Projeto Não Orientado a Abordagens Específicas](./Base/1.1.AbordagemNaoEspecifica.md)
       - [1.1.1 Definição Design sprint](./Base/modulo_1.1/1.1.1_design_sprint.md)
@@ -13,6 +14,7 @@
       - [1.1.5 Diagrama de Ishikawa](./Base/modulo_1.1/1.1.5_causa_efeito.md)
       - [1.1.6 Gerenciamento de riscos](./Base/modulo_1.1/1.1.6_gerenciamento_de_risco.md)
       - [1.1.7 Backlog e priorização](./Base/modulo_1.1/1.1.7_moscow.md)
+      - [1.1.8 Léxicos](./Base/modulo_1.1/1.1.8_lexicos.md)
     - [1.2. Módulo Processos/Metodologias/Abordagens](./Base/1.2.ProcessosMetodologiasAbordagens.md)
       - [1.2.1. Metodologias](./Base/modulo_1.2/1.2.1.Metodologias.md)
       - [1.2.2 Modelagem BPMN](./Base/modulo_1.2/ModelagemBPMN.md)
@@ -20,6 +22,7 @@
     - [1.4. Participações - Base](./Base/1.4.ParticipacoesBase.md)
 
 - **Modelagem**
+
   - [2. Desenho de Software (Modelagem)](Modelagem/2.Modelagem.md)
     - [2.1. Módulo Projeto Orientado a Abordagens Tradicionais](Modelagem/2.1.ModelagemTradicional.md)
       - [2.1.1. Notação UML – Diagramas Estáticos](Modelagem/2.1.1.UMLEstaticos.md)
@@ -29,6 +32,7 @@
     - [2.3. Participações - Modelagem](Modelagem/2.3.ParticipacoesModelagem.md)
 
 - **Padrões de Projeto**
+
   - [3. Desenho de Software (Padrões de Projeto)](PadroesDeProjeto/3.PadroesDeProjeto.md)
     - [3.1. Módulo Padrões de Projeto GRASPs](PadroesDeProjeto/3.1.GRASPs.md)
     - [3.2. Módulo Padrões de Projeto GoFs](PadroesDeProjeto/3.2.GoFs.md)
