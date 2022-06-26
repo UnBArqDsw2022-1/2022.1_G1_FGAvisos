@@ -31,11 +31,11 @@ Grupo Forlogic. Diagrama de Ishikawa. Disponível em: https://ferramentasdaquali
 
 ## Versionamento
 
-| Versão | Data       | Comentários                     | Autor(es)       
-| ------ | ---------- | -----------------------------   | --------------- 
-| 0.1    | 23/06/2022 | Criação do documento            | Vitor Diniz                                  
-| 0.2    | 24/06/2022 | Adicionando texto e referência  | Vitor Diniz     
-| 0.3    | 25/06/2022 | Adicionado especificação do diagrama em nosso escopo e imagem do diagrama | Mateus Moreira
-| 0.4    | 25/06/2022 | Correção ortográfica corrigindo referência | Vitor Diniz
-| 1.0    | 25/06/2022 | Finalizando Documento | Vitor Diniz
+| Versão | Data       | Comentários                     | Autor(es)       | Revisor |
+| ------ | ---------- | -----------------------------   | --------------- | ------- |
+| 0.1    | 23/06/2022 | Criação do documento            | Vitor Diniz     | Antonio Igor, João Coelho e Lameque Fernandes |                            
+| 0.2    | 24/06/2022 | Adicionando texto e referência  | Vitor Diniz     | Antonio Igor, João Coelho e Lameque Fernandes |
+| 0.3    | 25/06/2022 | Adicionado especificação do diagrama em nosso escopo e imagem do diagrama | Mateus Moreira | Antonio Igor, João Coelho e Lameque Fernandes |
+| 0.4    | 25/06/2022 | Correção ortográfica corrigindo referência | Vitor Diniz | Antonio Igor, João Coelho e Lameque Fernandes |
+| 1.0    | 25/06/2022 | Finalizando Documento | Vitor Diniz | Antonio Igor, João Coelho e Lameque Fernandes |
          
