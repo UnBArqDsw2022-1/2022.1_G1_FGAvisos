@@ -55,4 +55,4 @@ Quaisquer outras informações sobre seu projeto podem ser descritas nessa seç�
 | Data |Versão| Descrição | Autor(es) | Revisor |
 |:----:|:----:|:---------:|:-----:|:-----:|
 | 25/06 |  1.0  | Editando template, adicionando dados do aluno, alterando nome do projeto e nome do grupo | Hugo Rocha | xxxx |
-| 26/06 |  1.1  | Adicionando nome de todos os integrantes | Antonio Igor | xxxx |
+| 26/06 |  1.1  | Adicionando nome de todos os integrantes | Antonio Igor | Antonio Rangel e Lameque Fernandes |
