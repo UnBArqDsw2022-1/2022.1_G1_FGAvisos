@@ -14,6 +14,7 @@
       - [1.1.6 Gerenciamento de riscos](./Base/modulo_1.1/1.1.6_gerenciamento_de_risco.md)
       - [1.1.7 Backlog e priorização](./Base/modulo_1.1/1.1.7_moscow.md)
     - [1.2. Módulo Processos/Metodologias/Abordagens](./Base/1.2.ProcessosMetodologiasAbordagens.md)
+      - [1.2.2 Modelagem BPMN](Base/modulo_1.2/ModelagemBPMN.md)
     - [1.3. Iniciativas Extras - Base](./Base/1.3.IniciativasExtras.md)
     - [1.4. Participações - Base](./Base/1.4.ParticipacoesBase.md)
 
