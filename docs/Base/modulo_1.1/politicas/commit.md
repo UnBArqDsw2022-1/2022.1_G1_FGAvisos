@@ -52,4 +52,4 @@ Políticas de Commit. Disponível em: <https://fga-eps-mds.github.io/2020.1-Grup
 
 | Data       | Versão |  Descrição                     | Autor(es)                                               | Revisor |
 | :--------: | :----: | :----------------------------: | :-----------------------------------------------------: | :-----: |
-| 26/06/2022 |  1.0   | Criação da política de commits | [Lameque Fernandes](https://github.com/LamequeFernandes)| xxx     |
+| 26/06/2022 |  1.0   | Criação da política de commits | [Lameque Fernandes](https://github.com/LamequeFernandes)| Davi Marinho     |

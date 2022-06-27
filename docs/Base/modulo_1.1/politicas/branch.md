@@ -55,4 +55,4 @@ HADLER, Mikael. Utilizando o fluxo Git Flow. *Medium*. Disponível em: <https://
 
 | Data       | Versão |  Descrição                     | Autor(es)                                               | Revisor |
 | :--------: | :----: | :----------------------------: | :-----------------------------------------------------: | :-----: |
-| 26/06/2022 |  1.0   | Criação da política de branchs | [Lameque Fernandes](https://github.com/LamequeFernandes)| xxx     |
+| 26/06/2022 |  1.0   | Criação da política de branchs | [Lameque Fernandes](https://github.com/LamequeFernandes)| Davi Marinho     |
