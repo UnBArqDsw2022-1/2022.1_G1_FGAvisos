@@ -16,6 +16,7 @@
       - [1.1.7 Backlog e priorização](./Base/modulo_1.1/1.1.7_moscow.md)
       - [1.1.8 Léxicos](./Base/modulo_1.1/1.1.8_lexicos.md)
       - [1.1.9 Protótipo de média fidelidade](./Base/modulo_1.1/1.1.9_prototipo_de_media_fidelidade.md)
+      - [1.1.10 Protótipo de alta fidelidade](./Base/modulo_1.1/1.1.10_prototipo_de_alta_fidelidade.md)
     - [1.2. Módulo Processos/Metodologias/Abordagens](./Base/1.2.ProcessosMetodologiasAbordagens.md)
       - [1.2.1. Metodologias](./Base/modulo_1.2/1.2.1.Metodologias.md)
       - [1.2.2 Modelagem BPMN](./Base/modulo_1.2/ModelagemBPMN.md)
