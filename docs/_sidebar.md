@@ -17,7 +17,7 @@
       - [1.1.8 Léxicos](./Base/modulo_1.1/1.1.8_lexicos.md)
     - [1.2. Módulo Processos/Metodologias/Abordagens](./Base/1.2.ProcessosMetodologiasAbordagens.md)
       - [1.2.1. Metodologias](./Base/modulo_1.2/1.2.1.Metodologias.md)
-      - [1.2.2 Modelagem BPMN](./Base/modulo_1.2/ModelagemBPMN.md)
+      - [1.2.2 Modelagem BPMN](./Base/modulo_1.2/1.2.2.ModelagemBPMN.md)
     - [1.3. Iniciativas Extras - Base](./Base/1.3.IniciativasExtras.md)
     - [1.4. Participações - Base](./Base/1.4.ParticipacoesBase.md)
 
