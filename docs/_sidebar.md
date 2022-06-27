@@ -18,6 +18,8 @@
       - [1.1.9 Politicas]()
         - [1.1.9.1 Commit](./Base/modulo_1.1/politicas/commit.md)   
         - [1.1.9.2 Branch](./Base/modulo_1.1/politicas/branch.md)
+      - [1.1.11 Protótipo de média fidelidade](./Base/modulo_1.1/1.1.9_prototipo_de_media_fidelidade.md)
+      - [1.1.12 Protótipo de alta fidelidade](./Base/modulo_1.1/1.1.10_prototipo_de_alta_fidelidade.md)
     - [1.2. Módulo Processos/Metodologias/Abordagens](./Base/1.2.ProcessosMetodologiasAbordagens.md)
       - [1.2.1. Metodologias](./Base/modulo_1.2/1.2.1.Metodologias.md)
       - [1.2.2 Modelagem BPMN](./Base/modulo_1.2/1.2.2.ModelagemBPMN.md)
