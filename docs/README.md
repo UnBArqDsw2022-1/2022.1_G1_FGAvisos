@@ -25,6 +25,8 @@ Use referências, links, que permitam conhecer um pouco mais sobre o projeto.
 ## Screenshots Primeira Entrega <<FOCO: DSW(Base)>>
 Adicione 2 ou mais screenshots do projeto em termos de artefatos da Primeira Entrega.
 
+OBS: Não especificaram esse documento no prazo <<Profa. Milene>>
+
 ## Screenshots Segunda Entrega <<FOCO: DSW(Modelagem)>>
 Adicione 2 ou mais screenshots do projeto em termos de artefatos da Segunda Entrega.
 
