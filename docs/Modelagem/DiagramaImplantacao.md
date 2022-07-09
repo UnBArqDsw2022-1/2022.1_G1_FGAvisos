@@ -47,6 +47,8 @@ Desse modo, o grupo elaborou um diagrama de implementação que irá ajudar a co
 
 ## Diagrama de Implementação - FGAvisos
 
+![Diagrama Implementação](../assets/img/diagramaimplementacao.png)
+
 ## Referências
 
 > Diagramas de Implementação. **IBM**. Disponível em: https://www.ibm.com/docs/pt-br/rsas/7.5.0?topic=topologies-deployment-diagrams
@@ -62,3 +64,4 @@ Desse modo, o grupo elaborou um diagrama de implementação que irá ajudar a co
 | 08/07 |  0.3   |  Elaboração da introdução e objetivo   | Vitor Diniz |  xxxx   |
 | 09/07 |  0.4   |               Elaboração do diagrama               | Vitor Diniz |  xxxx   |
 | 09/07 |  0.5   |               Adicionando referências               | Vitor Diniz |  xxxx   |
+| 09/07 |  0.6   |               Adicionando diagrama de implementação              | Vitor Diniz |  xxxx   |
