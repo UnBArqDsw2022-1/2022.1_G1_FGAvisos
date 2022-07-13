@@ -10,6 +10,18 @@ Segundo as especificações do _OMG™ Unified Modeling Language™ (OMG UML®)_
 
 Utilizamos a ferramenta Drawio para desenvolver o diagrama e também usamos o UML Communications Diagrams Overview como guia. Foi feito um rascunho e validado com toda a equipe através de mensagens e chamada de voz.
 
+### Versão 2
+
+- Diagrama de comunicação - fluxo do professor
+
+![Diagrama Comunicação Professor v2](../assets/img/comunicacoesprofessorv2.png)
+
+- Diagrama de comunicação - fluxo do aluno
+
+![Diagrama Comunicação Aluno v2](../assets/img/comunicacoesalunov2.png)
+
+### Versão 1
+
 - Diagrama de comunicação - fluxo do professor
 
 ![Diagrama Comunicacao Professor](../assets/img/comunicacaoprofessor.png)
@@ -20,9 +32,9 @@ Utilizamos a ferramenta Drawio para desenvolver o diagrama e também usamos o UM
 
 ## Referências
 
->SERRANO, Milene. Diagrama de Colaboração, 2021. Material apresentado na Disciplina de Arquitetura e Desenho de Software do curso de engenharia de software da UnB, FGA.
+> SERRANO, Milene. Diagrama de Colaboração, 2021. Material apresentado na Disciplina de Arquitetura e Desenho de Software do curso de engenharia de software da UnB, FGA.
 
->Criando Diagramas de Comunicação, IBM. https://www.ibm.com/docs/pt-br/rsar/9.5?topic=diagrams-creating-communication
+> Criando Diagramas de Comunicação, IBM. https://www.ibm.com/docs/pt-br/rsar/9.5?topic=diagrams-creating-communication
 
 ## Versionamento
 
@@ -32,6 +44,8 @@ Utilizamos a ferramenta Drawio para desenvolver o diagrama e também usamos o UM
 | 06/07 |  0.2   |               Abertura do documento                | Vitor Diniz |  xxxx   |
 | 07/07 |  0.3   |  Elaboração da introdução e ferramenta utilizada   | Vitor Diniz |  xxxx   |
 | 08/07 |  0.4   |               Elaboração do diagrama               | Vitor Diniz |  xxxx   |
-| 09/07 |  0.5   |               Adicionando diagrama do fluxo do professor               | Vitor Diniz |  xxxx   |
-| 09/07 |  0.6   |               Arrumando Referências               | Vitor Diniz |  xxxx   |
-| 09/07 |  0.7   |               Adicionando diagrama do fluxo do aluno               | Vitor Diniz |  xxxx   |
+| 09/07 |  0.5   |     Adicionando diagrama do fluxo do professor     | Vitor Diniz |  xxxx   |
+| 09/07 |  0.6   |               Arrumando Referências                | Vitor Diniz |  xxxx   |
+| 09/07 |  0.7   |       Adicionando diagrama do fluxo do aluno       | Vitor Diniz |  xxxx   |
+| 12/07 |  0.7   |              Adicionando diagramas v2              | Vitor Diniz |  xxxx   |
+| 12/07 |  0.7   |               Finalizando documento                | Vitor Diniz |  xxxx   |
