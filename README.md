@@ -8,7 +8,8 @@ Esse projeto visa um software de avisos para alunos e professores sobre as novid
 
 ## Tecnologias
 
-A geração do site estático é realizada utilizando o [docsify](https://docsify.js.org/).
-Os diagramas foram gerados utilizando o [LucidChart] (https://www.lucidchart.com/).
+A geração do site estático é realizada utilizando o [Docsify](https://docsify.js.org/).
+</br>
+Os diagramas foram gerados utilizando o [LucidChart](https://www.lucidchart.com/).
 
 
