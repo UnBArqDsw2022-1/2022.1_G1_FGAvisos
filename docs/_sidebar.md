@@ -38,7 +38,6 @@
       - [2.1.2. Notação UML – Diagramas Dinâmicos](Modelagem/2.1.2.UMLDinamicos.md)
         - [2.1.2.1. Diagrama de Atividades](Modelagem/2.1.2.1.DiagramaDeAtividades.md)
         - [2.1.2.2. Diagrama de Comunicação](Modelagem/2.1.2.2.DiagramaComunicacao.md)
-        - [2.1.2.3. Diagrama de Implantação](Modelagem/2.1.2.3.DiagramaImplantacao.md)
         - [2.1.2.4. Diagrama de Sequência](Modelagem/2.1.2.4.DiagramaDeSequencia.md)
         - [2.1.2.5. Diagrama de Estados](Modelagem/2.1.2.5.DiagramaDeEstados.md)
       - [2.1.3. Modelagem Ágil](Modelagem/2.1.3.Agil.md)
