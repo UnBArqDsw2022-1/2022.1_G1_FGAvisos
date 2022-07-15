@@ -40,6 +40,7 @@
         - [2.1.2.4. Diagrama de Sequência](Modelagem/2.1.2.4.DiagramaDeSequencia.md)
       - [2.1.3. Modelagem Ágil](Modelagem/2.1.3.Agil.md)
     - [2.2. Iniciativas Extras - Modelagem](Modelagem/2.2.IniciativasExtras.md)
+      - [2.2.2. Validação do prótotipo](./Modelagem/2.2.2.ValidacaoPrototipo.md)
     - [2.3. Participações - Modelagem](Modelagem/2.3.ParticipacoesModelagem.md)
 
 - **Padrões de Projeto**
