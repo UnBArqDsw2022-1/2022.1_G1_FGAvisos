@@ -33,6 +33,7 @@
       - [2.1.1. Notação UML – Diagramas Estáticos](Modelagem/2.1.1.UMLEstaticos.md)
         - [2.1.1.1. Diagrama de Classes](Modelagem/2.1.1.1.DiagramDeClasses.md)
         - [2.1.1.2. Diagrama de Pacotes](Modelagem/2.1.1.2.DiagramaDePacotes.md)
+        - [2.1.1.4. Diagrama de Implantação](Modelagem/2.1.1.4.DiagramaImplantacao.md)
       - [2.1.2. Notação UML – Diagramas Dinâmicos](Modelagem/2.1.2.UMLDinamicos.md)
         - [2.1.2.1. Diagrama de Atividades](Modelagem/2.1.2.1.DiagramaDeAtividades.md)
         - [2.1.2.2. Diagrama de Comunicação](Modelagem/2.1.2.2.DiagramaComunicacao.md)
