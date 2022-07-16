@@ -40,6 +40,7 @@
         - [2.1.2.2. Diagrama de Comunicação](Modelagem/2.1.2.2.DiagramaComunicacao.md)
         - [2.1.2.3. Diagrama de Sequência](Modelagem/2.1.2.4.DiagramaDeSequencia.md)
         - [2.1.2.4. Diagrama de Estados](Modelagem/2.1.2.5.DiagramaDeEstados.md)
+        - [2.1.2.5. Diagrama Relacional](Modelagem/2.1.2.6.DiagramaDeBancos)
       - [2.1.3. Modelagem Ágil](Modelagem/2.1.3.Agil.md)
         - [2.1.3.1. Backlog do produto](./Modelagem/2.1.3.1.BacklogDoProduto.md)
     - [2.2. Iniciativas Extras - Modelagem](Modelagem/2.2.IniciativasExtras.md)
