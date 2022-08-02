@@ -4,7 +4,6 @@
 - [Diretrizes](Diretrizes/Diretrizes.md)
 
 - **Base**
-
   - [1. Desenho de Software (Base)](./Base/1.Base.md)
     - [1.1. Módulo Projeto Não Orientado a Abordagens Específicas](./Base/1.1.AbordagemNaoEspecifica.md)
       - [1.1.1 Definição Design sprint](./Base/modulo_1.1/1.1.1_design_sprint.md)
@@ -27,7 +26,6 @@
     - [1.4. Participações - Base](./Base/1.4.ParticipacoesBase.md)
 
 - **Modelagem**
-
   - [2. Desenho de Software (Modelagem)](Modelagem/2.Modelagem.md)
     - [2.1. Módulo Projeto Orientado a Abordagens Tradicionais](Modelagem/2.1.ModelagemTradicional.md)
       - [2.1.1. Notação UML – Diagramas Estáticos](Modelagem/2.1.1.UMLEstaticos.md)
@@ -48,11 +46,21 @@
     - [2.3. Participações - Modelagem](Modelagem/2.3.ParticipacoesModelagem.md)
 
 - **Padrões de Projeto**
-
   - [3. Desenho de Software (Padrões de Projeto)](PadroesDeProjeto/3.PadroesDeProjeto.md)
     - [3.1. Módulo Padrões de Projeto GRASPs](PadroesDeProjeto/3.1.GRASPs.md)
+      - [3.1.1. Especialista](PadroesDeProjeto/3.1.1.GRASPEspecialista.md)
+      - [3.1.2. Alta coesão](PadroesDeProjeto/3.1.2.GRASPAltaCoesao.md)
+      - [3.1.3. Baixo acoplamento](PadroesDeProjeto/3.1.3.GRASPBaixoAcoplamento.md)
     - [3.2. Módulo Padrões de Projeto GoFs](PadroesDeProjeto/3.2.GoFs.md)
+      - [3.2.1. Criacional Builder](PadroesDeProjeto/3.2.1.GOFBuilder.md)
+      - [3.2.2. Criacional Singleton](PadroesDeProjeto/3.2.2.GOFSingleton.md)
+      - [3.2.3. Estrutual Adapter](PadroesDeProjeto/3.2.3.GOFAdapter.md)
+      - [3.2.4. Estrutual Decorator](PadroesDeProjeto/3.2.4.GOFDecorator.md)
+      - [3.2.5. Comportamental Strategy](PadroesDeProjeto/3.2.5.GOFStrategy.md)
+      - [3.2.6. Comportamental State](PadroesDeProjeto/3.2.6.GOFState.md)
+      - [3.2.7. Comportamental Observer](PadroesDeProjeto/3.2.7.GOFObserver.md)
     - [3.3. Modelagem Ágil](PadroesDeProjeto/3.3.PadroesExtra.md)
+      - [3.3.1. Padrões Emergentes](PadroesDeProjeto/3.3.1.PadroesExtras.md)
     - [3.4. Iniciativas Extras - Padrões de Projeto](PadroesDeProjeto/3.4.IniciativasExtras.md)
     - [3.5. Participações - Padrões de Projeto](PadroesDeProjeto/3.5.ParticipacoesPadroes.md)
 
