@@ -51,6 +51,7 @@
       - [3.1.1. Especialista](PadroesDeProjeto/3.1.1.GRASPEspecialista.md)
       - [3.1.2. Alta coesão](PadroesDeProjeto/3.1.2.GRASPAltaCoesao.md)
       - [3.1.3. Baixo acoplamento](PadroesDeProjeto/3.1.3.GRASPBaixoAcoplamento.md)
+      - [3.1.4. Polimorfismo](PadroesDeProjeto/3.1.4.GRASPPolimorfismo.md)
     - [3.2. Módulo Padrões de Projeto GoFs](PadroesDeProjeto/3.2.GoFs.md)
       - [3.2.1. Criacional Builder](PadroesDeProjeto/3.2.1.GOFBuilder.md)
       - [3.2.2. Criacional Singleton](PadroesDeProjeto/3.2.2.GOFSingleton.md)
