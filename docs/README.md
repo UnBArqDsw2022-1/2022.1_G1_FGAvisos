@@ -22,7 +22,7 @@ Projeto realizado pelos alunos do Grupo 01 da disciplina de Arquitetura e Desenh
 
 Olá nós somos o grupo do FGAvisos, nosso trabalho consiste em uma central de avisos para comunidade acadêmica da Universidade de Brasília, mais especificamente da Faculdade do Gama-FGA.
 
-Quando as aulas voltaram presencialmente no semestr 2022-1, haviam muitas noticias, mas nenhum lugar específico para essas noticias serem postadas, algumas eram por Email, outras por Whatsapp, Telegram, Teams e outros aplicativos. Então o nosso objetivo é resolver esse problema criando um lugar para centralizar todos esses avisos.
+Quando as aulas voltaram presencialmente no semestre 2022-1, haviam muitas noticias, mas nenhum lugar específico para essas noticias serem postadas, algumas eram por Email, outras por Whatsapp, Telegram, Teams e outros aplicativos. Então o nosso objetivo é resolver esse problema criando um lugar para centralizar todos esses avisos.
 
 Vocês podem ter uma base de como vai ficar nosso aplicativo entrando no nosso fluxo e navegando por ele: [Fluxo FGAvisos](https://www.figma.com/proto/5naphmEWK8aP5qRpFrcqhB/Prot%C3%B3tipo-de-alta-fidelidade?node-id=7%3A514&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=7%3A514&show-proto-sidebar=1).
 
@@ -105,4 +105,4 @@ Quaisquer outras informações sobre seu projeto podem ser descritas nessa seç�
 |:----:|:----:|:---------:|:-----:|:-----:|
 | 25/06 |  1.0  | Editando template, adicionando dados do aluno, alterando nome do projeto e nome do grupo | Hugo Rocha | xxxx |
 | 26/06 |  1.1  | Adicionando nome de todos os integrantes | Antonio Igor | Antonio Rangel e Lameque Fernandes |
-| 11/08 |  1.2  | Acrescenta foto, github, email dos integrantes, matrícula e as imagens das entregas | Davi Marinho | xxxx |
+| 11/08 |  1.2  | Acrescenta foto, github, email dos integrantes, matrícula e as imagens das entregas | Davi Marinho | Antonio Rangel |
