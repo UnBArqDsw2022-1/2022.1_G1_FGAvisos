@@ -1,4 +1,4 @@
-![Logotipo fgAvisos](https://unbarqdsw2022-1.github.io/2022.1_G1_fgAvisos/assets/img/Logo.png)
+![Logotipo fgAvisos](https://unbarqdsw2022-1.github.io/2022.1_G1_FGAvisos/assets/img/Logo.png)
 
 Projeto realizado pelos alunos do Grupo 01 da disciplina de Arquitetura e Desenho de Software da Universidade de Brasília em 2022-1.
 
