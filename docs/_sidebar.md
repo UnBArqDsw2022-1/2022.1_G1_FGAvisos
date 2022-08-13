@@ -63,8 +63,8 @@
     - [3.3. Modelagem Ágil](PadroesDeProjeto/3.3.PadroesExtra.md)
       - [3.3.1. Padrões Emergentes](PadroesDeProjeto/3.3.1.PadroesExtras.md)
     - [3.4. Iniciativas Extras - Padrões de Projeto](PadroesDeProjeto/3.4.IniciativasExtras.md)
-    - [3.5. Participações - Padrões de Projeto](PadroesDeProjeto/3.5.ParticipacoesPadroes.md)
-    - [3.6. Dojo - FastAPI](PadroesDeProjeto/3.6.DojoFastAPI.md)
+    - [3.5. Dojo - FastAPI](PadroesDeProjeto/3.5.DojoFastAPI.md)
+    - [3.6. Participações - Padrões de Projeto](PadroesDeProjeto/3.6.ParticipacoesPadroes.md)
 
 - **Arquitetura de Software & Reutilização**
   - [4. Desenho de Software (Arquitetura & Reutilização de Software)](ArquiteturaReutilizacao/4.ArquiteturaReutilizacao.md)
