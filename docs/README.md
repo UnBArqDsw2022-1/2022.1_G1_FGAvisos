@@ -70,7 +70,7 @@ OBS: Não especificaram esse documento no prazo <<Profa. Milene>>
 <h4 align = "center">Figura 7: Codigo Exemplo Alta Coesão</h6>
 <h4 align = "center">Fonte: Autores</h6>
 
-![Singleton](/assets/img/singleton.png)
+![Singleton](assets/img/singleton.png)
 
 <h4 align = "center">Figura 8: Exemplo do Singleton</h6>
 <h4 align = "center">Fonte: Autores</h6>
@@ -119,3 +119,4 @@ Quaisquer outras informações sobre seu projeto podem ser descritas nessa seç�
 | 26/06 |  1.1  | Adicionando nome de todos os integrantes | Antonio Igor | Antonio Rangel e Lameque Fernandes |
 | 11/08 |  1.2  | Acrescenta foto, github, email dos integrantes, matrícula e as imagens das entregas | Davi Marinho | Antonio Rangel |
 | 12/08 |  1.3  | Adicionando Imagens da entrega | Antonio Rangel | Lameque Fernandes | 
+| 12/08 |  1.4  | Correção no caminho das imagens | Antonio Rangel, Lameque Fernandes | Lameque Fernandes, AntonioRangel | 
