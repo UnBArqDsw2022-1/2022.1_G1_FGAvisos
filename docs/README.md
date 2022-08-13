@@ -28,17 +28,17 @@ Vocês podem ter uma base de como vai ficar nosso aplicativo entrando no nosso f
 
 ## Screenshots Primeira Entrega <<FOCO: DSW(Base)>>
 
-![Rich Picture](../../assets/img/rich_picture.png)
+![Rich Picture](assets/img/rich_picture.png)
 
 <h4 align = "center">Figura 1: Rich-picture.</h6>
 <h4 align = "center">Fonte: Autores</h6>
 
-![5W2H](../../assets/img/5w2h.png)
+![5W2H](assets/img/5w2h.png)
 
 <h4 align = "center">Figura 2: 5W2H</h6>
 <h4 align = "center">Fonte: Autores</h6>
 
-![Faz nao faz](../../assets/img/faz_naofaz.png)
+![Faz nao faz](assets/img/faz_naofaz.png)
 
 <h4 align = "center">Figura 3: Faz - Não Faz</h6>
 <h4 align = "center">Fonte: Autores</h6>
@@ -47,17 +47,17 @@ OBS: Não especificaram esse documento no prazo <<Profa. Milene>>
 
 ## Screenshots Segunda Entrega <<FOCO: DSW(Modelagem)>>
 
-![Diagrama de Classes](../assets/img/classesversao3.jpeg)
+![Diagrama de Classes](/assets/img/classesversao3.jpeg)
 
 <h4 align = "center">Figura 4: Diagrama de Classes.</h6>
 <h4 align = "center">Fonte: Autores</h6>
 
-![Diagrama de Sequência - Sequência professor](../assets/img/Diagrama_Sequencia_Professorv2.png)
+![Diagrama de Sequência - Sequência professor](/assets/img/Diagrama_Sequencia_Professorv2.png)
 
 <h4 align = "center">Figura 5: Diagrama de Sequência - Versão Professor.</h6>
 <h4 align = "center">Fonte: Autores</h6>
 
-![Diagrama de Sequência - Sequência aluno](../assets/img/Diagrama_Sequencia_Aluno.png)
+![Diagrama de Sequência - Sequência aluno](/assets/img/Diagrama_Sequencia_Aluno.png)
 
 <h4 align = "center">Figura 6: Diagrama de Sequência - Versão Aluno.</h6>
 <h4 align = "center">Fonte: Autores</h6>
@@ -66,16 +66,16 @@ OBS: Não especificaram esse documento no prazo <<Profa. Milene>>
 
 ## Screenshots Terceira Entrega <<FOCO: DSW(Padrões de Projeto)>>
 
-![Codigo alta coesão](../assets/img/codigoCoesao.png)
+![Codigo alta coesão](/assets/img/codigoCoesao.png)
 <h4 align = "center">Figura 7: Codigo Exemplo Alta Coesão</h6>
 <h4 align = "center">Fonte: Autores</h6>
 
-![Singleton](../assets/img/singleton.png)
+![Singleton](/assets/img/singleton.png)
 
 <h4 align = "center">Figura 8: Exemplo do Singleton</h6>
 <h4 align = "center">Fonte: Autores</h6>
 
-![Exemplo de observer](../assets/img/observer.png)
+![Exemplo de observer](/assets/img/observer.png)
 
 <h4 align = "center">Figura 9: Exemplo do Observer</h6>
 <h4 align = "center">Fonte: Autores</h6>
