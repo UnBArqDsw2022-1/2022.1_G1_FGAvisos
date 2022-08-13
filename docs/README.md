@@ -47,17 +47,17 @@ OBS: Não especificaram esse documento no prazo <<Profa. Milene>>
 
 ## Screenshots Segunda Entrega <<FOCO: DSW(Modelagem)>>
 
-![Diagrama de Classes](/assets/img/classesversao3.jpeg)
+![Diagrama de Classes](assets/img/classesversao3.jpeg)
 
 <h4 align = "center">Figura 4: Diagrama de Classes.</h6>
 <h4 align = "center">Fonte: Autores</h6>
 
-![Diagrama de Sequência - Sequência professor](/assets/img/Diagrama_Sequencia_Professorv2.png)
+![Diagrama de Sequência - Sequência professor](assets/img/Diagrama_Sequencia_Professorv2.png)
 
 <h4 align = "center">Figura 5: Diagrama de Sequência - Versão Professor.</h6>
 <h4 align = "center">Fonte: Autores</h6>
 
-![Diagrama de Sequência - Sequência aluno](/assets/img/Diagrama_Sequencia_Aluno.png)
+![Diagrama de Sequência - Sequência aluno](assets/img/Diagrama_Sequencia_Aluno.png)
 
 <h4 align = "center">Figura 6: Diagrama de Sequência - Versão Aluno.</h6>
 <h4 align = "center">Fonte: Autores</h6>
@@ -66,7 +66,7 @@ OBS: Não especificaram esse documento no prazo <<Profa. Milene>>
 
 ## Screenshots Terceira Entrega <<FOCO: DSW(Padrões de Projeto)>>
 
-![Codigo alta coesão](/assets/img/codigoCoesao.png)
+![Codigo alta coesão](assets/img/codigoCoesao.png)
 <h4 align = "center">Figura 7: Codigo Exemplo Alta Coesão</h6>
 <h4 align = "center">Fonte: Autores</h6>
 
@@ -75,16 +75,16 @@ OBS: Não especificaram esse documento no prazo <<Profa. Milene>>
 <h4 align = "center">Figura 8: Exemplo do Singleton</h6>
 <h4 align = "center">Fonte: Autores</h6>
 
-![Exemplo de observer](/assets/img/observer.png)
+![Exemplo de observer](assets/img/observer.png)
 
 <h4 align = "center">Figura 9: Exemplo do Observer</h6>
 <h4 align = "center">Fonte: Autores</h6>
 
-![Adapter](/assets/img/Esquema_do_adapter.jpg)
+![Adapter](assets/img/Esquema_do_adapter.jpg)
 <h4 align = "center">Figura 10: Esquema do Adapter</h6>
 <h4 align = "center">Fonte: Autores</h6>
 
-![Baixo Acoplamento](/assets/img/baixoAcoplamento.jpg)
+![Baixo Acoplamento](assets/img/baixoAcoplamento.jpg)
 <h4 align = "center">Figura 11: Baixo Acoplamento</h6>
 <h4 align = "center">Fonte: Autores</h6>
 
