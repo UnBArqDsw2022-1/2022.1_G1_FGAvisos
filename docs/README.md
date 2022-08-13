@@ -28,17 +28,17 @@ Vocês podem ter uma base de como vai ficar nosso aplicativo entrando no nosso f
 
 ## Screenshots Primeira Entrega <<FOCO: DSW(Base)>>
 
-![Rich Picture](../../assets/img/rich_picture.png)
+![Rich Picture](assets/img/rich_picture.png)
 
 <h4 align = "center">Figura 1: Rich-picture.</h6>
 <h4 align = "center">Fonte: Autores</h6>
 
-![5W2H](../../assets/img/5w2h.png)
+![5W2H](assets/img/5w2h.png)
 
 <h4 align = "center">Figura 2: 5W2H</h6>
 <h4 align = "center">Fonte: Autores</h6>
 
-![Faz nao faz](../../assets/img/faz_naofaz.png)
+![Faz nao faz](assets/img/faz_naofaz.png)
 
 <h4 align = "center">Figura 3: Faz - Não Faz</h6>
 <h4 align = "center">Fonte: Autores</h6>
@@ -47,17 +47,17 @@ OBS: Não especificaram esse documento no prazo <<Profa. Milene>>
 
 ## Screenshots Segunda Entrega <<FOCO: DSW(Modelagem)>>
 
-![Diagrama de Classes](../assets/img/classesversao3.jpeg)
+![Diagrama de Classes](assets/img/classesversao3.jpeg)
 
 <h4 align = "center">Figura 4: Diagrama de Classes.</h6>
 <h4 align = "center">Fonte: Autores</h6>
 
-![Diagrama de Sequência - Sequência professor](../assets/img/Diagrama_Sequencia_Professorv2.png)
+![Diagrama de Sequência - Sequência professor](assets/img/Diagrama_Sequencia_Professorv2.png)
 
 <h4 align = "center">Figura 5: Diagrama de Sequência - Versão Professor.</h6>
 <h4 align = "center">Fonte: Autores</h6>
 
-![Diagrama de Sequência - Sequência aluno](../assets/img/Diagrama_Sequencia_Aluno.png)
+![Diagrama de Sequência - Sequência aluno](assets/img/Diagrama_Sequencia_Aluno.png)
 
 <h4 align = "center">Figura 6: Diagrama de Sequência - Versão Aluno.</h6>
 <h4 align = "center">Fonte: Autores</h6>
@@ -66,18 +66,30 @@ OBS: Não especificaram esse documento no prazo <<Profa. Milene>>
 
 ## Screenshots Terceira Entrega <<FOCO: DSW(Padrões de Projeto)>>
 
-![Codigo alta coesão](../assets/img/codigoCoesao.png)
+![Codigo alta coesão](assets/img/codigoCoesao.png)
 <h4 align = "center">Figura 7: Codigo Exemplo Alta Coesão</h6>
 <h4 align = "center">Fonte: Autores</h6>
 
-![Singleton](../assets/img/singleton.png)
+![Singleton](assets/img/singleton.png)
 
 <h4 align = "center">Figura 8: Exemplo do Singleton</h6>
 <h4 align = "center">Fonte: Autores</h6>
 
-![Exemplo de observer](../assets/img/observer.png)
+![Exemplo de observer](assets/img/observer.png)
 
 <h4 align = "center">Figura 9: Exemplo do Observer</h6>
+<h4 align = "center">Fonte: Autores</h6>
+
+![Adapter](assets/img/Esquema_do_adapter.jpg)
+<h4 align = "center">Figura 10: Esquema do Adapter</h6>
+<h4 align = "center">Fonte: Autores</h6>
+
+![Baixo Acoplamento](assets/img/baixoAcoplamento.jpg)
+<h4 align = "center">Figura 11: Baixo Acoplamento</h6>
+<h4 align = "center">Fonte: Autores</h6>
+
+![GoF State](assets/img/gofstate-exemplo.png)
+<h4 align = "center">Figura 12: GoF State Exemplo Counter</h6>
 <h4 align = "center">Fonte: Autores</h6>
 
 ## Screenshots Quarta Entrega (FINAL) <<FOCOS: Arquitetura & Reutilização de Software & PROJETO FINAL>>
@@ -106,3 +118,5 @@ Quaisquer outras informações sobre seu projeto podem ser descritas nessa seç�
 | 25/06 |  1.0  | Editando template, adicionando dados do aluno, alterando nome do projeto e nome do grupo | Hugo Rocha | xxxx |
 | 26/06 |  1.1  | Adicionando nome de todos os integrantes | Antonio Igor | Antonio Rangel e Lameque Fernandes |
 | 11/08 |  1.2  | Acrescenta foto, github, email dos integrantes, matrícula e as imagens das entregas | Davi Marinho | Antonio Rangel |
+| 12/08 |  1.3  | Adicionando Imagens da entrega | Antonio Rangel | Lameque Fernandes | 
+| 12/08 |  1.4  | Correção no caminho das imagens | Antonio Rangel, Lameque Fernandes | Lameque Fernandes, AntonioRangel | 
