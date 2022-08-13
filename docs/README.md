@@ -81,11 +81,15 @@ OBS: Não especificaram esse documento no prazo <<Profa. Milene>>
 <h4 align = "center">Fonte: Autores</h6>
 
 ![Adapter](/assets/img/Esquema_do_adapter.jpg)
-<h4 align = "center">Figura 9: Esquema do Adapter</h6>
+<h4 align = "center">Figura 10: Esquema do Adapter</h6>
 <h4 align = "center">Fonte: Autores</h6>
 
 ![Baixo Acoplamento](/assets/img/baixoAcoplamento.jpg)
-<h4 align = "center">Figura 9: Baixo Acoplamento</h6>
+<h4 align = "center">Figura 11: Baixo Acoplamento</h6>
+<h4 align = "center">Fonte: Autores</h6>
+
+![GoF State](assets/img/gofstate-exemplo.png)
+<h4 align = "center">Figura 12: GoF State Exemplo Counter</h6>
 <h4 align = "center">Fonte: Autores</h6>
 
 ## Screenshots Quarta Entrega (FINAL) <<FOCOS: Arquitetura & Reutilização de Software & PROJETO FINAL>>
