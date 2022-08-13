@@ -80,6 +80,14 @@ OBS: Não especificaram esse documento no prazo <<Profa. Milene>>
 <h4 align = "center">Figura 9: Exemplo do Observer</h6>
 <h4 align = "center">Fonte: Autores</h6>
 
+![Adapter](/assets/img/Esquema_do_adapter.jpg)
+<h4 align = "center">Figura 9: Esquema do Adapter</h6>
+<h4 align = "center">Fonte: Autores</h6>
+
+![Baixo Acoplamento](/assets/img/baixoAcoplamento.jpg)
+<h4 align = "center">Figura 9: Baixo Acoplamento</h6>
+<h4 align = "center">Fonte: Autores</h6>
+
 ## Screenshots Quarta Entrega (FINAL) <<FOCOS: Arquitetura & Reutilização de Software & PROJETO FINAL>>
 Adicione 2 ou mais screenshots do projeto em termos de interface e/ou funcionamento.
 
@@ -106,3 +114,4 @@ Quaisquer outras informações sobre seu projeto podem ser descritas nessa seç�
 | 25/06 |  1.0  | Editando template, adicionando dados do aluno, alterando nome do projeto e nome do grupo | Hugo Rocha | xxxx |
 | 26/06 |  1.1  | Adicionando nome de todos os integrantes | Antonio Igor | Antonio Rangel e Lameque Fernandes |
 | 11/08 |  1.2  | Acrescenta foto, github, email dos integrantes, matrícula e as imagens das entregas | Davi Marinho | Antonio Rangel |
+| 12/08 |  1.3  | Adicionando Imagens da entrega | Antonio Rangel | Lameque Fernandes | 
