@@ -149,3 +149,4 @@ $ npm start
 | 11/08 |  1.2  | Acrescenta foto, github, email dos integrantes, matrícula e as imagens das entregas | Davi Marinho | Antonio Rangel |
 | 12/08 |  1.3  | Adicionando Imagens da entrega | Antonio Rangel | Lameque Fernandes | 
 | 12/08 |  1.4  | Correção no caminho das imagens | Antonio Rangel, Lameque Fernandes | Lameque Fernandes, AntonioRangel | 
+| 09/09 |  1.5  | Adição das imagens e como rodar o projeto | Davi Marinho | ------ | 
