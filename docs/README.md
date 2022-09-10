@@ -93,7 +93,34 @@ OBS: Não especificaram esse documento no prazo <<Profa. Milene>>
 <h4 align = "center">Fonte: Autores</h6>
 
 ## Screenshots Quarta Entrega (FINAL) <<FOCOS: Arquitetura & Reutilização de Software & PROJETO FINAL>>
-Adicione 2 ou mais screenshots do projeto em termos de interface e/ou funcionamento.
+
+![Documento Arquitetura](assets/img/Documento-Arquitetura-Introdução.jpg)
+<h4 align = "center">Figura 13: Documento Arquitetura</h6>
+<h4 align = "center">Fonte: Autores</h6>
+
+![Componentes](assets/img/componentesHome.jpg)
+<h4 align = "center">Figura 14: Componentes</h6>
+<h4 align = "center">Fonte: Autores</h6>
+
+![Backend-Frozen-Spot](assets/img/Backend-Frozen-Spot.png)
+<h4 align = "center">Figura 15: Backend-Frozen-Spot</h6>
+<h4 align = "center">Fonte: Autores</h6>
+
+![cadastro](assets/img/cadastroFront.png)
+<h4 align = "center">Figura 16: Tela Cadastro</h6>
+<h4 align = "center">Fonte: Autores</h6>
+
+![loginFront](assets/img/loginFront.png)
+<h4 align = "center">Figura 17: Tela de Login</h6>
+<h4 align = "center">Fonte: Autores</h6>
+
+![editarPerfilFront](assets/img/editarPerfilFront.png)
+<h4 align = "center">Figura 18: Tela de Editar Perfil</h6>
+<h4 align = "center">Fonte: Autores</h6>
+
+![avisosFront](assets/img/avisosFront.png)
+<h4 align = "center">Figura 19: Tela de Avisos</h6>
+<h4 align = "center">Fonte: Autores</h6>
 
 ## Descritivo dos Principais Aspectos Técnicos 
 **Principal(is) Metodologia(s) Adotada(s)**: Scrum, XP, KanBan<br>
@@ -102,14 +129,16 @@ Adicione 2 ou mais screenshots do projeto em termos de interface e/ou funcioname
 **Principal(is) Estilo(s) Arquitetural(is) Adotado(s)**: xxxxxx<br>
 
 ## O Projeto está rodando?
-( ) SIM
+(X) SIM
 () NÃO
-Se SIM, insira um manual (ou um script) para auxiliar ainda mais os interessados em consultar o projeto.
 
-## Informações Complementares 
-Quaisquer outras informações sobre seu projeto podem ser descritas nessa seção.
+$ git clone https://github.com/UnBArqDsw2022-1/2022.1_G1_FGAvisos
 
+$ cd app
 
+$ npm install
+
+$ npm start
 
 ## Versionamento
 
